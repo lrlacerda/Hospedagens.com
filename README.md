@@ -1,6 +1,8 @@
 # Hospedagens.com
 Hospedagens.com é um site de demonstração projetado para promover diferentes opções de hospedagem em diversas cidades do Brasil. O site apresenta um layout moderno com um efeito parallax e cards interativos para mostrar as ofertas de hospedagem.
 
+ **https://lrlacerda.github.io/Hospedagens.com/**
+
 \## Recursos
 
 \- \*\*Seção Hero:\*\* Destaca a busca por hospedagens com um mapa do Brasil.
